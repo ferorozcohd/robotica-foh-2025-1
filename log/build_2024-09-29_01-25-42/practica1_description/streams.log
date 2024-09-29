@@ -1,0 +1,42 @@
+[0.044s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/ROS2Dev/robot_2025_ws/src/practica1_description -DCMAKE_INSTALL_PREFIX=/home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description
+[1.228s] -- The C compiler identification is GNU 11.4.0
+[1.876s] -- The CXX compiler identification is GNU 11.4.0
+[1.926s] -- Detecting C compiler ABI info
+[2.332s] -- Detecting C compiler ABI info - done
+[2.350s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.354s] -- Detecting C compile features
+[2.354s] -- Detecting C compile features - done
+[2.372s] -- Detecting CXX compiler ABI info
+[2.815s] -- Detecting CXX compiler ABI info - done
+[2.841s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.842s] -- Detecting CXX compile features
+[2.842s] -- Detecting CXX compile features - done
+[2.867s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.986s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[5.523s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.996s] -- Added test 'lint_cmake' to check CMake code style
+[6.010s] -- Added test 'xmllint' to check XML markup files
+[6.021s] -- Configuring done
+[6.059s] -- Generating done
+[6.060s] -- Build files have been written to: /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description
+[6.083s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/ROS2Dev/robot_2025_ws/src/practica1_description -DCMAKE_INSTALL_PREFIX=/home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description
+[6.098s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description -- -j2 -l2
+[6.284s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description -- -j2 -l2
+[6.371s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description
+[6.397s] -- Install configuration: ""
+[6.401s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/package_run_dependencies/practica1_description
+[6.404s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/parent_prefix_path/practica1_description
+[6.412s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/ament_prefix_path.sh
+[6.415s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/ament_prefix_path.dsv
+[6.415s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/path.sh
+[6.415s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/path.dsv
+[6.416s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.bash
+[6.416s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.sh
+[6.416s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.zsh
+[6.422s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.dsv
+[6.422s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/package.dsv
+[6.422s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/packages/practica1_description
+[6.422s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig.cmake
+[6.423s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig-version.cmake
+[6.423s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/package.xml
+[6.439s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description

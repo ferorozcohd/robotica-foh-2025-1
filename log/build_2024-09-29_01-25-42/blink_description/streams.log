@@ -1,0 +1,46 @@
+[0.088s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/ROS2Dev/robot_2025_ws/src/blink_description -DCMAKE_INSTALL_PREFIX=/home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description
+[1.226s] -- The C compiler identification is GNU 11.4.0
+[1.970s] -- The CXX compiler identification is GNU 11.4.0
+[2.026s] -- Detecting C compiler ABI info
+[2.447s] -- Detecting C compiler ABI info - done
+[2.472s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.473s] -- Detecting C compile features
+[2.473s] -- Detecting C compile features - done
+[2.485s] -- Detecting CXX compiler ABI info
+[2.991s] -- Detecting CXX compiler ABI info - done
+[3.012s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.016s] -- Detecting CXX compile features
+[3.016s] -- Detecting CXX compile features - done
+[3.021s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.205s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[6.232s] -- Configuring done
+[6.251s] -- Generating done
+[6.262s] -- Build files have been written to: /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description
+[6.293s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/ROS2Dev/robot_2025_ws/src/blink_description -DCMAKE_INSTALL_PREFIX=/home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description
+[6.294s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description -- -j2 -l2
+[6.401s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description -- -j2 -l2
+[6.562s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description
+[6.628s] -- Install configuration: ""
+[6.630s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//urdf
+[6.634s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//urdf/basic_link.urdf
+[6.639s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch
+[6.639s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch/basic_link_display.launch.py
+[6.642s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch/basic_link_display.launch.xml
+[6.645s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//rviz
+[6.645s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//rviz/basic_link_config.rviz
+[6.654s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/package_run_dependencies/blink_description
+[6.654s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/parent_prefix_path/blink_description
+[6.654s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/ament_prefix_path.sh
+[6.661s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/ament_prefix_path.dsv
+[6.663s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/path.sh
+[6.663s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/path.dsv
+[6.663s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.bash
+[6.663s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.sh
+[6.673s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.zsh
+[6.673s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.dsv
+[6.674s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/package.dsv
+[6.675s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/packages/blink_description
+[6.683s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/cmake/blink_descriptionConfig.cmake
+[6.683s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/cmake/blink_descriptionConfig-version.cmake
+[6.684s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/package.xml
+[6.702s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description

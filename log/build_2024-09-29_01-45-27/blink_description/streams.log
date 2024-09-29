@@ -1,0 +1,27 @@
+[0.029s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description -- -j2 -l2
+[0.095s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description -- -j2 -l2
+[0.249s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description
+[0.338s] -- Install configuration: ""
+[0.338s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//urdf
+[0.345s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//urdf/basic_link.urdf
+[0.346s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch
+[0.346s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch/basic_link_display.launch.py
+[0.349s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//launch/basic_link_display.launch.xml
+[0.349s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//rviz
+[0.349s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description//rviz/basic_link_config.rviz
+[0.349s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/package_run_dependencies/blink_description
+[0.349s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/parent_prefix_path/blink_description
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/ament_prefix_path.sh
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/ament_prefix_path.dsv
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/path.sh
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/environment/path.dsv
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.bash
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.sh
+[0.350s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.zsh
+[0.352s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/local_setup.dsv
+[0.352s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/package.dsv
+[0.354s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/ament_index/resource_index/packages/blink_description
+[0.354s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/cmake/blink_descriptionConfig.cmake
+[0.355s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/cmake/blink_descriptionConfig-version.cmake
+[0.355s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/blink_description/share/blink_description/package.xml
+[0.372s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/blink_description
